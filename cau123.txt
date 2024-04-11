@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la file cau123 cua cau123 ma thoi
+=======
+day la file cau123 thuoc main va branch cau123
+>>>>>>> main
